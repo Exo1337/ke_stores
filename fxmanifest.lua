@@ -28,8 +28,3 @@ files {
     'frontend/index.html',
     'frontend/assets/**',
 }
-escrow_ignore {
-    'backend/shared/*.lua',
-    'backend/client/*.lua',
-    'backend/server/*.lua'
-}
